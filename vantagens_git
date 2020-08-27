@@ -1,0 +1,8 @@
+********* VANTAGENS DE USAR GIT *********
+
+- Envia e recebe da mesma forma sem alterações.
+- Performance.
+- Economia de espaço em disco e banda de rede.
+- O arquivo pode ser recuperado, caso seja excluido do diretório. 
+- rastreia primeiro o conteudo, depois os metadados.
+- Consegue retornar até o ponto onde o branch foi criado e olhar como era o arquivo original.
